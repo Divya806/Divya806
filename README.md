@@ -1,4 +1,4 @@
-### Hi there 👋
+<p text-align="center">Hi there 👋 I'm Divya</p>
 
 <!--
 **Divya806/Divya806** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-Front-End Developer
+<p text-align="center">Front-End Developer from India</p>
