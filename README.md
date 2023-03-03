@@ -1,5 +1,5 @@
 
-<div align="center">
+<div align="center" font-size="2rem" font-weight="bold">
     <p>Hi there 👋 I'm Divya</p>
     <p>Front-End Developer from India</p>
 </div>
